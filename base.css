@@ -46,10 +46,10 @@ a {
 @media screen and (max-width: 460px) {
 	.site-top p {
 		font-family: Helvetica,Arial,sans-serif;
-		font-size: 16px;
+		font-size: 15px;
 	}
   .sosmed {
-		margin-left: 40px;
+		margin-left: 43px;
 	}
 	a {
 		margin-left: 5px;
