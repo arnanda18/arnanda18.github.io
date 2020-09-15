@@ -42,3 +42,13 @@ a {
 	color: #dc143c;
 	font-family: Helvetica,Arial,sans-serif;
 }
+@media screen and (max-width: 460px) {
+	.site-top p {
+		font-family: Helvetica,Arial,sans-serif;
+		font-size: 15px;
+	}
+	a {
+		margin-left: 5px;
+	}
+	
+}
