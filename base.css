@@ -1,1 +1,59 @@
+.site {
+	display:flex;
+	height: 50vh;
+	flex-wrap:wrap;
+	justify-content: center;
+	margin-top: 90px;
+}
 
+#.site-top h1 {
+#	font-family: Helvetica,Arial,sans-serif;
+#	color: #2c3e50;
+#}
+
+h2 {
+	color: #2c3e50;
+}
+
+.logo {
+	width: 200px;
+	border-radius: 45%;
+	#margin-left:90px;
+}
+
+.site-top p {
+	font-family: Helvetica,Arial,sans-serif;
+	font-size: 20px;
+	display: block;
+}
+
+h3 {
+	margin-bottom: 5px;
+}
+
+.sosmed {
+	margin-left: 87px;
+	
+}
+a {
+	margin-top: 1px;
+	display: inline-block;
+	margin-left: 10px;
+	color: #dc143c;
+	font-family: Helvetica,Arial,sans-serif;
+}
+
+@media screen and (max-width: 460px) {
+	.site-top p {
+		font-family: Helvetica,Arial,sans-serif;
+		font-size: 17px;
+	}
+  .sosmed {
+		margin-left: 40px;
+	}
+	a {
+		margin-left: 5px;
+	}
+	
+	
+}
